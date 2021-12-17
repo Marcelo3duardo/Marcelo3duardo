@@ -1,7 +1,7 @@
 ### Oii.. me chamo Marcelo estudante de Computação-UFPI, atualmente estou estudando o front-end 👋
 
 
-<div align="center">
+<div align="center" style="display:inline-block" >
  <a href="https://github.com/Marcelo3duardo", >
  <img altura="180em" width="70%" src="https://github-readme-stats.vercel.app/api?username=Marcelo3duardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
