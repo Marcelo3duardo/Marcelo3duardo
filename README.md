@@ -18,7 +18,7 @@
  ##
  <!--redes sociais -->
  <div style="display:inline-block"><br>
-   <span ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></span>
+   <a href = "https://www.linkedin.com/in/marcelo-oliveira-4822b61b9/"><img  align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
  </div>
    
  
