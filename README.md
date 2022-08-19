@@ -1,4 +1,4 @@
-### Oii.. me chamo Marcelo estudante de Computação-UFPI, atualmente estou estudando o front-end 👋
+### Oii.. me chamo Marcelo estudante de B. Computação-UFPI, atualmente estou estudando o front-end 👋
 
 
 <div align="center" style="display:inline-block" >
